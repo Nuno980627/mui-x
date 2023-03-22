@@ -29,10 +29,10 @@ const zhCNPickers: Partial<PickersLocaleText<any>> = {
   todayButtonLabel: '今天',
 
   // Toolbar titles
-  // datePickerToolbarTitle: 'Select date',
-  // dateTimePickerToolbarTitle: 'Select date & time',
-  // timePickerToolbarTitle: 'Select time',
-  // dateRangePickerToolbarTitle: 'Select date range',
+   datePickerToolbarTitle: '选择日期',
+   dateTimePickerToolbarTitle: '选择日期与时间',
+   timePickerToolbarTitle: '选择时间',
+   dateRangePickerToolbarTitle: '选择日期范围',
 
   // Clock labels
   clockLabelText: (view, time, adapter) =>
